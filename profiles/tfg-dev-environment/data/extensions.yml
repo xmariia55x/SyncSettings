@@ -1,0 +1,24 @@
+disabled: []
+enabled:
+  - id: CoenraadS.bracket-pair-colorizer-2
+    uuid: 5a6e2b21-1d61-4acd-b31b-907f9c23f18a
+  - id: Equinusocio.vsc-community-material-theme
+    uuid: bf8aa94a-4051-42fe-9bd1-2becad466fe7
+  - id: Equinusocio.vsc-material-theme
+    uuid: 45bfc9eb-5e03-487f-bffe-315fa6881d6a
+  - id: equinusocio.vsc-material-theme-icons
+    uuid: 6959958f-be4d-42c4-8aa4-dc2c2f086b0a
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-python.vscode-pylance
+    uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
+  - id: ms-toolsai.jupyter
+    uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
+  - id: ms-toolsai.jupyter-keymap
+    uuid: 9f6dc8db-620c-4844-b8c5-e74914f1be27
+  - id: ms-toolsai.jupyter-renderers
+    uuid: b15c72f8-d5fe-421a-a4f7-27ed9f6addbf
+  - id: ms-vsliveshare.vsliveshare
+    uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
+  - id: steoates.autoimport
+    uuid: 70378119-1d85-4935-9733-0298c7a369a2
